@@ -1,6 +1,6 @@
 [
   {
-    "name": "nginx-webserver",
+    "name": "nginx-webhost",
     "imageUri": "public.ecr.aws/nginx/nginx:latest"
   }
 ]

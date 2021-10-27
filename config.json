@@ -1,6 +1,6 @@
 [
   {
-    "name": "nginx-webserver",
+    "name": "nginx",
     "imageUri": "public.ecr.aws/nginx/nginx:latest",
     "ipcMode": null,
     "executionRoleArn": "arn:aws:iam::647635552321:role/ecsTaskExecutionRole",

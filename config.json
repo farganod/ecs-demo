@@ -1,6 +1,6 @@
 [
   {
-    "name": "frontend",
+    "name": "nginx-webserver",
     "imageUri": "public.ecr.aws/nginx/nginx:latest"
   }
 ]
